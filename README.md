@@ -99,7 +99,7 @@ pousada_mare_mansa/
 ### 1. Clone o repositório
 
 ```bash
-gh repo clone Karlos-Eduardo-Mrqs/Pousada-Mare-Mansa
+gh repo clone YANSG30/Pousada-Mare-Mansa
 
 cd pousada_mare_mansa
 ```
